@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello, World");
-        System.out.println(123 + 456);
-        System.out.println("Test Pull request 2");
+        System.out.println("Проверяем Pull снова");
+        System.out.println("Test Pull request 3");
     }
 }
