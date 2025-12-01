@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String TEST == 111111;
+        System.out.println("Задание. " + "напишите числа: ");
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
         char sim = scanner.next().charAt(0);
