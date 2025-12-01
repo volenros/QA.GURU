@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        int TEST2 == 12345;
         int num1 = scanner.nextInt();
         int num2 = scanner.nextInt();
         char sim = scanner.next().charAt(0);
